@@ -1,3 +1,4 @@
 ## Image Editing Software 
+
 > Fully function image editor written in Java. 
 
